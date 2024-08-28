@@ -97,7 +97,7 @@ const Subscriptions = () => {
         <Sidebar />
         <SorryNotSupported
           message={
-            'Hmm, seems like your favorite channels are on vacation 🏖️. Check back soon to catch up on the latest videos!'
+            'No result, Check back soon to catch up on the latest videos!'
           }
         />
       </>
@@ -110,7 +110,7 @@ const Subscriptions = () => {
         <Sidebar />
         <SorryNotSupported
           message={
-            "Hmm, seems like you don't have any subscribed channels. Discover new channels to get started!"
+            "Seems like you don't have any subscribed channels. Discover new channels to get started!"
           }
         />
       </>

@@ -11,7 +11,7 @@ const You = () => {
       <Sidebar />
       <SorryNotSupported
         message={
-          'we dont track histories yet'
+          'We dont track histories yet'
         }
       />
     </>
